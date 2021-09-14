@@ -8,6 +8,6 @@ node_modules
 
 #Hardhat files
 cache
-##artifacts
-.secret
-.infuraid
+artifacts
+infuraid
+secret
